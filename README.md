@@ -38,7 +38,7 @@ GymPass style app.
 
 <p align="center">
   <a href="https://github.com/alessandro-silva" target="_blank">
-    <img align="center" src="https://github.com/alessandro-silva/primeiro-projeto-usando-prisma-orm-api-solid-nodejs/assets/54153011/279010cf-f309-49d1-a128-b09f03c7b306" alt="banner"/>
+    <img align="center" src="https://github.com/alessandro-silva/primeiro-projeto-usando-prisma-orm-api-solid-nodejs/assets/54153011/c6b67484-ab67-4172-96ec-e6ea5f221836" alt="banner"/>
   </a>
 </p>
 
