@@ -37,8 +37,8 @@ GymPass style app.
 <br />
 
 <p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
+  <a href="https://github.com/alessandro-silva" target="_blank">
+    <img align="center" src="https://www.figma.com/file/adx1dGnpE6E6VsJvNrbGKL/Untitled?type=design&node-id=1-2&mode=design&t=EdOgTk35D04kDrPv-4" alt="banner"/>
   </a>
 </p>
 
